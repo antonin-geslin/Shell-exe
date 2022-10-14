@@ -1,0 +1,1 @@
+* * * * * cd ~/Documents/LaPlateforme/Système/Shellexe/Job08/ && ./get_logs.sh
