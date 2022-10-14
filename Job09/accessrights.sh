@@ -34,4 +34,4 @@ rm temp.txt  #suppression du fichier temporaire temp.txt
 
 #dscl . read /Groups/admin pour regarder les utilisateurs admins
 #dscl . list Users pour lister tout les utilisateurs
-#J'ai mis la commande dans crontab.txt
+#J'ai mis la cron commande dans crontab.txt
