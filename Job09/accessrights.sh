@@ -34,4 +34,4 @@ rm temp.txt  #suppression du fichier temporaire temp.txt
 
 #dscl . read /Groups/admin pour regarder les utilisateurs admins
 #dscl . list Users pour lister tout les utilisateurs
-#Je suis sur mac alors cron marche pas donc j'ai mis la commande dans crontab.txt
+#J'ai mis la commande dans crontab.txt
