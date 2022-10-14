@@ -3,6 +3,6 @@ last latouillette | wc -l > number_connection-$date #récupération des logs ave
 
 tar  -cvf number_connection-$date.tar.gz number_connection-$date #compression du fichier dans le répertoire courant
 rm number_connection-$date #suppression du fichier originel
-mv number_connection-$date.tar.gz /Users/latouillette/Documents/LaPlateforme/Système/Shellexe/Job08/Backup/ #déplacement de l'archive dans le bon répertoire
+mv number_connection-$date.tar.gz Backup/ #déplacement de l'archive dans le bon répertoire
 
 #Je suis sur mac alors cron marche pas donc j'ai mis la commande dans crontab.txt

@@ -1,1 +1,1 @@
-* * * * * if find  Shell_Userlist.csv  -mmin -60 then ./accessright.sh
+* * * * * if find /Users/latouillette/Documents/LaPlateforme/Système/Shell-exe/job09/Shell_Userlist.csv  -mmin -60 then cd /Users/latouillette/Documents/LaPlateforme/Système/Shell-exe/job09/ && ./accessrights.sh
